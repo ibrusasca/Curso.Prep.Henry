@@ -1,0 +1,23 @@
+
+html {
+    background: url(./fondo.jpg);
+}
+h1 {
+    color: brown;
+}
+img {
+    width: 400px;
+}    
+#thirdDiv {
+    background-color: cadetblue;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border-style: dashed;
+    border-color: black;
+    border-width: 2px;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
